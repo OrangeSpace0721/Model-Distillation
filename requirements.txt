@@ -1,0 +1,23 @@
+# Core Python dependencies for model distillation
+# Add or update as needed for your cluster environment
+
+
+# Deep learning
+torch>=2.0.0
+transformers
+diffusers
+
+# Distributed training
+torchvision
+
+# Utilities
+PyYAML
+numpy
+scipy
+pillow
+
+# Cluster/SLURM
+submitit
+
+# Logging & progress
+wandb

@@ -1,0 +1,7 @@
+# Example configuration for distillation experiment
+img_size: 32
+batch_size: 32
+channels: 16
+lr: 0.001
+epochs: 5
+# Add compute budget and other parameters as needed
