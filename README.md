@@ -1,6 +1,6 @@
 # Model Distillation for Flux.2 Generative Image Model
 
-This project provides a codebase for distilling the Flux.2 generative image model into smaller student models, each constrained by a different compute budget, following the methodology described in [Distilling Generative Models with Limited Compute](https://openreview.net/pdf?id=iIGNrDwDuP).
+This project provides a codebase for distilling the Flux.2 generative image model into smaller student models, each constrained by a different compute budget, following the methodology described in [Scaling Laws For Diffusion Transformers](https://openreview.net/pdf?id=iIGNrDwDuP).
 
 ## Features
 - Modular code for teacher-student distillation
@@ -22,7 +22,7 @@ This project provides a codebase for distilling the Flux.2 generative image mode
 - `README.md` - Project overview and instructions
 
 ## Reference
-- [Distilling Generative Models with Limited Compute (OpenReview)](https://openreview.net/pdf?id=iIGNrDwDuP)
+- [Scaling Laws For Diffusion Transformers (OpenReview)](https://openreview.net/pdf?id=iIGNrDwDuP)
 
 ---
 *Replace placeholders and configs as needed for your cluster and dataset.*
